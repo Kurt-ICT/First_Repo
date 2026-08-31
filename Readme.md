@@ -1,5 +1,5 @@
-# Git Fehlertraining 
+# Falscher Projekttitel 
 
  
 
-Dieses Projekt wird verwendet, um Fehler mit Git zu beheben. 
+Dieser Text wurde versehentlich überschrieben.	 
